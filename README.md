@@ -65,19 +65,23 @@ Para executar o projeto no computador, seguimos os passos abaixo:
 python -m venv venv
 
 - Ativar no Windows
+
 venv\Scripts\activate
 
 - Ativar no Linux/Mac
+
 source venv/bin/activate
 
 3. **Instalar dependências:**
 
 Como estamos utilizando apenas o NumPy, basta apenas instalá-lo:
+
 pip install numpy
 
 4. **Executar o projeto:**
 
 Rode o arquivo principal:
+
 python main.py
 
 # Conclusão
