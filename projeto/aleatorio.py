@@ -1,4 +1,6 @@
+# ----------------------------------------
 # Módulo responsável por gerar números, arrays e matrizes aleatórias
+# ----------------------------------------
 
 import numpy as np  # Biblioteca para cálculo numérico
 

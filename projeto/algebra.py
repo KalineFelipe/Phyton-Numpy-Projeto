@@ -1,3 +1,4 @@
+# ----------------------------------------
 # Submódulo responsável por usar numpy.linalg
 # para resolver operações de álgebra linear
 # ----------------------------------------
