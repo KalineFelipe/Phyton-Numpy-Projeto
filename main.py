@@ -24,7 +24,7 @@ if __name__ == "__main__":
 
     # === Testes do módulo util.py ===
     print("\n=== Testes util (funções extras) ===")
-    lista = [1, 5, 8, 2, 9, 7, 87]  # Lista de exemplo
+    lista = [1, 5, 8, 2, 9, 17, 27]  # Lista de exemplo
     print(f"Lista: {lista}")
     print(f"Maior: {maior(lista)}")   # Maior valor da lista
     print(f"Menor: {menor(lista)}")   # Menor valor da lista
