@@ -1,6 +1,6 @@
 # Projeto linguagem Python e NumPy
 
-Este projeto referente a segunda nota da disciplina de Introdução aos Softwares, tem como objetivo demonstrar a combinação de estruturas básicas da linguagem Python com funcionalidades da biblioteca NumPy, iremos abordar os submódulos numpy.linalg e numpy.random.
+Este projeto tem como objetivo demonstrar a combinação de estruturas básicas da linguagem Python com funcionalidades da biblioteca NumPy, iremos abordar os submódulos numpy.linalg e numpy.random.
 
 # Linguagem utlizada
 Python 3.13.5
@@ -47,3 +47,41 @@ Condicionais: if, else
 # Exemplos na prática
 
 Dessa forma, iremos demostrar o uso combinado de estruturas básicas da linguagem Python e funcionalidades do NumPy. Por meio de exemplos práticos nos submódulo solicitado (numpy.linalg e numpy.random) no qual estão implementados no arquivo `main.py`.
+
+# Instalação e execução
+
+Para executar o projeto no computador, seguimos os passos abaixo:
+
+1. **Clonar o repositório:**
+
+   ```bash
+   git clone https://github.com/KalineFelipe/Phyton-Numpy-Projeto.git
+   cd Phyton-Numpy-Projeto
+
+      Esse é o local onde pode ser encontrado o repositório no GitHub.
+
+2. **Criar e ativar um ambiente virtual:**
+
+python -m venv venv
+# Ativar no Windows
+venv\Scripts\activate
+# Ativar no Linux/Mac
+source venv/bin/activate
+
+3. **Instalar dependências:**
+
+Como estamos utilizando apenas o NumPy, basta apenas instalá-lo:
+pip install numpy
+
+4. **Executar o projeto:**
+
+Rode o arquivo principal:
+python main.py
+
+# Conclusão
+
+Este projeto foi desenvolvido com o objetivo de praticar e aplicar conceitos da linguagem Python em conjunto com a biblioteca NumPy. Como processo de avaliação da segunda nota da disciplina.
+Foram implementadas funções para manipulação de matrizes, operações algébricas e geração de números aleatórios, demonstrando como o NumPy pode simplificar cálculos e otimizar o desenvolvimento.
+
+
+
